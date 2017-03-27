@@ -212,6 +212,7 @@ jQuery(function($) {'use strict';
 		social_tools: false
 	});
 
+	/*
 	//Google Map
 	var latitude = $('#google-map').data('latitude');
 	var longitude = $('#google-map').data('longitude');
@@ -229,5 +230,5 @@ jQuery(function($) {'use strict';
 		});
 	}
 	google.maps.event.addDomListener(window, 'load', initialize_map);
-
+	*/
 });
